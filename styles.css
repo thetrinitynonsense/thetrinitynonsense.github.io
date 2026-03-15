@@ -1,27 +1,27 @@
 body {
   background-color:rgb(255,255,255);
-  margin:20px;
+  margin:8px;
 }
 
 h1 {
-  color:rgb(255,0,0);
+  color:rgb(253,0,0);
   font-size: 32px;
   line-height:1.6;
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 27px;
   line-height:1.6;
 }
 
 p {
   color:rgb(110,110,110);
-  font-size: 24px;
+  font-size: 22px;
   line-height:1.6;
 }
 
 li {
-  font-size: 24px;
+  font-size: 22px;
   line-height:1.6;
 }
 
@@ -41,7 +41,7 @@ a:visited {
 }
 
 a:hover {
-  color:rgb(255,0,0);
+  color:rgb(253,0,0);
 }
 
 a:active {
